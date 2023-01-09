@@ -1,4 +1,4 @@
-# NFT Demo
+# NFT Demo Working Test
 
 This project is a UI Demo for the NFT capabilities available on Cennznet.
 
